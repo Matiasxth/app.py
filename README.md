@@ -29,6 +29,6 @@ Este proyecto permite generar playlists automáticamente en **Spotify** seleccio
 
 1️⃣ **Clona el repositorio**:
 ```bash
-git clone https://github.com/tu-usuario/spotify-playlist-generator.git
+git clone https://github.com/MatiasXth/spotify-playlist-generator.git
 cd spotify-playlist-generator
 
