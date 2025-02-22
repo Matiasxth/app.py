@@ -1,4 +1,4 @@
-# PLAYLIST_SPOTIFY
+# spotify-playlist-generator
 # 🎵 Generador Automático de Playlists en Spotify con Streamlit
 
 Este proyecto permite generar playlists automáticamente en **Spotify** seleccionando un **artista y un género**. Se utiliza **Streamlit** como interfaz gráfica.
